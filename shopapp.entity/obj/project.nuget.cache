@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLMMZYAA6VlMqU+0TEsXv1hZ4WKRyOZG9jXWqAz0TwNOvJYSR70j4+CYt8g0CoaC3WU5T4kf47HdtHje0wKaSQ==",
+  "success": true,
+  "projectFilePath": "C:\\TemsaDev\\DevYigit\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahsun.yigit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mahsun.yigit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

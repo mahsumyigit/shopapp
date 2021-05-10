@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shopapp.business", "shopapp.business\shopapp.business.csproj", "{CBAB76AE-1A40-490B-B749-AB45F4DF4762}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shopapp.data", "shopapp.data\shopapp.data.csproj", "{0189F170-D27F-4CC5-A318-AC11C0D6D491}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shopapp.entity", "shopapp.entity\shopapp.entity.csproj", "{80DBD366-A4BC-4173-A1D8-82430A7F6997}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shopapp.webui", "shopapp.webui\shopapp.webui.csproj", "{9C9A1F86-0296-4E55-9DDC-229377C82DB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAB76AE-1A40-490B-B749-AB45F4DF4762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAB76AE-1A40-490B-B749-AB45F4DF4762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAB76AE-1A40-490B-B749-AB45F4DF4762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAB76AE-1A40-490B-B749-AB45F4DF4762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0189F170-D27F-4CC5-A318-AC11C0D6D491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0189F170-D27F-4CC5-A318-AC11C0D6D491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0189F170-D27F-4CC5-A318-AC11C0D6D491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0189F170-D27F-4CC5-A318-AC11C0D6D491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DBD366-A4BC-4173-A1D8-82430A7F6997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DBD366-A4BC-4173-A1D8-82430A7F6997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DBD366-A4BC-4173-A1D8-82430A7F6997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DBD366-A4BC-4173-A1D8-82430A7F6997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C9A1F86-0296-4E55-9DDC-229377C82DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9A1F86-0296-4E55-9DDC-229377C82DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9A1F86-0296-4E55-9DDC-229377C82DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9A1F86-0296-4E55-9DDC-229377C82DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A109D57-0A62-4F4E-8EB2-DAD021429D0C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.temsa.com/temsacollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = shopapp.business\\shopapp.business.csproj
+		SccProjectName1 = shopapp.business
+		SccLocalPath1 = shopapp.business
+		SccProjectUniqueName2 = shopapp.data\\shopapp.data.csproj
+		SccProjectName2 = shopapp.data
+		SccLocalPath2 = shopapp.data
+		SccProjectUniqueName3 = shopapp.entity\\shopapp.entity.csproj
+		SccProjectName3 = shopapp.entity
+		SccLocalPath3 = shopapp.entity
+		SccProjectUniqueName4 = shopapp.webui\\shopapp.webui.csproj
+		SccProjectName4 = shopapp.webui
+		SccLocalPath4 = shopapp.webui
+	EndGlobalSection
+EndGlobal
